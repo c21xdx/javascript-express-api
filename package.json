@@ -6,7 +6,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "ampt"
+    "start": "node ./index.js"
   },
   "dependencies": {
     "@ampt/sdk": "latest",
